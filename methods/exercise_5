@@ -1,3 +1,5 @@
+```ruby
+
 1. def scream(words)
       words = words + "!!!!"
       puts words
@@ -6,3 +8,5 @@
     scream("Yippeee")
 
  2. It returns nil
+
+```
