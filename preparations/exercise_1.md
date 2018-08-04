@@ -1,3 +1,5 @@
+```ruby
+
 $ mkdir my_folder
 $ cd my_folder
 my_folder $ touch one.rb two.rb
@@ -12,3 +14,5 @@ my_folder $ ruby one.rb # Runs the one.rb file
 this is file one # This gets output in the command line.
 my_folder $ ruby two.rb # Runs the two.rb file
 this is file two # This gets output in the command line.
+
+```
